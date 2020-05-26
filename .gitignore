@@ -1,5 +1,6 @@
 *.csv
 *.tsv
+*.xls
 *.xlsx
 *.geojson
 *.cpg
@@ -19,4 +20,10 @@
 *.gz
 *.zip
 *.rar
+*.png
+*.jpeg
+*.jpg
+*.tiff
+*.gif
+*.svg
 .ipynb_checkpoints/
